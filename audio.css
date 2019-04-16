@@ -1,0 +1,42 @@
+.h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.todo {
+    background-color: antiquewhite;
+    padding-left: 5%;
+}
+
+.inicio{
+    background-color: azure;
+    padding-left: 5%;
+    padding-right: 5%    
+}
+
+.divisao {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.eu {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+head {
+    border: 2px solid #ffffff 
+
+}
+
+.corpo {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+.rodape {
+    background-color: #ffffff;
+}
+
+
